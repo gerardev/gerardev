@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi, it's Gerardo 👋
 
-<!--
-**gerardev/gerardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
 
-Here are some ideas to get you started:
+<table>
+ <tbody>
+    <tr>
+       <td>
+         <a href="https://www.linkedin.com/in/gerardev/">Linkedin profile</a>
+      </td>
+      <td>
+         <a href="https://twitter.com/gerardev_/">Twitter profile</a>
+      </td>
+      <td>
+         <a href="https://www.instagram.com/gerar.dev/">Instagram profile</a>
+      </td>
+    </tr>
+  </tbody>
+  </table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Hibrid cloud serverless apps
+- 🌱 I’m currently studying for Azure certification exam
+- 📫 Email: gerardo@spotcloud.io
